@@ -1,0 +1,9 @@
+This is a client for rancid REST service.
+
+INSTALL
+
+The usual commands will sufice:
+
+    perl Makefile.PL
+    make
+    make install
